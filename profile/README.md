@@ -9,6 +9,10 @@ Welcome to **Open Agent Tools** - a collection of open-source tools and framewor
   - Language: Python
   - License: MIT
 
+- **[Basic-Agent-Chat-Loop](https://github.com/Open-Agent-Tools/Basic-Agent-Chat-Loop)** - A feature-rich, interactive CLI for AI agents with token tracking, prompt templates, agent aliases, command history, and multi-line input support. Provides a flexible command-line chat framework for building AI agents with advanced interaction capabilities.
+  - Language: Python
+  - License: MIT
+
 ### Trading & Finance
 - **[open-stocks-mcp](https://github.com/Open-Agent-Tools/open-stocks-mcp)** - An MCP (Model Context Protocol) server providing access to stock market data and trading capabilities through Robin Stocks API.
   - Language: Python
