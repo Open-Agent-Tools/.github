@@ -5,7 +5,11 @@ Welcome to **Open Agent Tools** - a collection of open-source tools and framewor
 ## Our Repositories
 
 ### Core Agent Framework
-- **[basic-open-agent-tools](https://github.com/Open-Agent-Tools/basic-open-agent-tools)** - An open foundational toolkit providing essential components for building AI agents with minimal dependenciesAn open foundational toolkit providing essential components for building AI agents with minimal dependencies for local (non-HTTP/API) actions. Designed with agent-friendly type signatures to eliminate "signature too complex" errors, while offering core utilities that developers can easily integrate into their agents to avoid excess boilerplate.
+- **[basic-open-agent-tools](https://github.com/Open-Agent-Tools/basic-open-agent-tools)** - An open foundational toolkit providing essential components for building AI agents with minimal dependencies for local (non-HTTP/API) actions. Designed with agent-friendly type signatures to eliminate "signature too complex" errors, while offering core utilities that developers can easily integrate into their agents to avoid excess boilerplate.
+  - Language: Python
+  - License: MIT
+
+- **[any-agent](https://github.com/Open-Agent-Tools/any-agent)** - Flexible Python framework for building AI agents compatible with multiple LLM providers. Enables agent development with provider-agnostic implementations for maximum portability.
   - Language: Python
   - License: MIT
 
@@ -23,10 +27,14 @@ Welcome to **Open Agent Tools** - a collection of open-source tools and framewor
   - License: Apache-2.0
 
 ### Development Tools
+- **[coding-open-agent-tools](https://github.com/Open-Agent-Tools/coding-open-agent-tools)** - Advanced code generation and shell scripting toolkit for AI agents. Provides parsing, validation, and analysis tools that reduce token consumption by handling deterministic operations. Includes 154+ functions across Git operations, database tools, Python code analysis, shell validation, performance profiling, and quality analysis.
+  - Language: Python
+  - License: MIT
+
 - **[claude_slash_commands_library](https://github.com/Open-Agent-Tools/claude_slash_commands_library)** - A collection of powerful slash commands for Claude Code to enhance your development workflow.
   - License: Apache-2.0
 
-- **[agent-examples](https://github.com/Open-Agent-Tools/agent-examples)** - Example implementations and demonstrations of AI agents
+- **[agent-examples](https://github.com/Open-Agent-Tools/agent-examples)** - Example implementations and demonstrations of AI agents using Google ADK, Strands, LangChain, and other frameworks.
   - Language: Python
   - License: MIT
 
