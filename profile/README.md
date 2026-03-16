@@ -31,11 +31,14 @@ Welcome to **Open Agent Tools** - a collection of open-source tools and framewor
   - Language: Python
   - License: MIT
 
-- **[claude_slash_commands_library](https://github.com/Open-Agent-Tools/claude_slash_commands_library)** - A collection of powerful slash commands for Claude Code to enhance your development workflow.
+- **[General-OAT-Skills](https://github.com/Open-Agent-Tools/General-OAT-Skills)** - A curated collection of skills for Claude Code, organized as a plugin using the Agent Skills open standard. Includes dev workflow skills (check, cleanup, test, publish), quality & learning tools, and 18 project scaffold templates.
   - License: Apache-2.0
 
 - **[agent-examples](https://github.com/Open-Agent-Tools/agent-examples)** - Example implementations and demonstrations of AI agents using Google ADK, Strands, LangChain, and other frameworks.
   - Language: Python
+  - License: MIT
+
+- **[spec-kit-status](https://github.com/Open-Agent-Tools/spec-kit-status)** - A Spec Kit extension that adds project and feature progress tracking across the spec-driven development workflow. Provides pipeline views, artifact status, task progress, and next-action recommendations.
   - License: MIT
 
 ## Mission
