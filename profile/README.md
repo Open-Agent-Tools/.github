@@ -4,6 +4,10 @@ Welcome to **Open Agent Tools** - a collection of open-source tools and framewor
 
 ## 2026 Groove
 
+- **[Postcard](https://github.com/Open-Agent-Tools/Postcard)** - AI agent sessions don't talk to each other. Postcard fixes that with the smallest coordination primitive that works: each session gets a three-word address, sends are git commits, inboxes are directories. No daemon, no network, no broker — just fire-and-forget messages between agents sharing a filesystem. Ships as a Python CLI and a Claude Code plugin.
+  - Language: Python
+  - License: MIT
+
 - **[General-OAT-Skills](https://github.com/Open-Agent-Tools/General-OAT-Skills)** - A curated collection of skills for Claude Code, organized as a plugin using the Agent Skills open standard. Includes dev workflow skills (check, cleanup, test, publish), quality & learning tools, and 18 project scaffold templates.
   - License: Apache-2.0
 
