@@ -4,6 +4,10 @@ Welcome to **Open Agent Tools** - a collection of open-source tools and framewor
 
 ## 2026 Groove
 
+- **[timelapse-capture](https://github.com/Open-Agent-Tools/timelapse-capture)** - Fire-and-forget visual timelapse capture for long-running app review. Captures a browser URL as a sequence of screenshots, supports frame inspection with `peek`, renders frames into `output.mp4`, and auto-cleans raw frames after a successful render. Works with a detached background process so capture never blocks the terminal.
+  - Language: JavaScript (Node.js)
+  - License: MIT
+
 - **[Postcard](https://github.com/Open-Agent-Tools/Postcard)** - AI agent sessions don't talk to each other. Postcard fixes that with the smallest coordination primitive that works: each session gets a three-word address, sends are git commits, inboxes are directories. No daemon, no network, no broker — just fire-and-forget messages between agents sharing a filesystem. Ships as a Python CLI and a Claude Code plugin.
   - Language: Python
   - License: MIT
